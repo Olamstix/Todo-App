@@ -13,7 +13,6 @@ You may also see any lint errors in the console.
 - Remove scroll bug of page
 - Updated font size
 - Added shadow
-- Added animation
 - Added smooth animation
 - Code improvement
 
