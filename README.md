@@ -10,12 +10,15 @@ You may also see any lint errors in the console.
 
 ## Improvements 0.1.3
 
-- Light/dark mode toggle
 - Remove scroll bug of page
 - Updated font size
 - Added shadow
 - Added animation
 - Added smooth animation
+
+## Next Features
+
+- Light/dark mode toggle
 
 ### Authors
 
