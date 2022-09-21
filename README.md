@@ -1,4 +1,4 @@
-A Simple ToDo app built with Reactjs
+A Simple ToDo app built with React
 
 ### `npm start`
 
