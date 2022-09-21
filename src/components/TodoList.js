@@ -159,8 +159,8 @@ export const TodoList = () => {
                     </button>
                     <button
                       onClick={() => {
-                        setEdit(todo.key);
-                        setEditValue(todo.value);
+                        setEdit("");
+                        setEditValue("");
                       }}
                     >
                       <AiOutlineCloseSquare size={30} className="action-1" />
