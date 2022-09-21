@@ -40,8 +40,11 @@ function TodoList() {
   };
 
   return (
-    <div>
-      <h1> What 's the Plan for Today</h1> <TodoForm onSubmit={addTodo} />{" "}
+    <div id="container">
+      <div id="container__header">
+        <h1 id="container__header__title"> What 's the Plan for Today</h1>
+      </div>
+      <TodoForm onSubmit={addTodo} />{" "}
       <Todo
         todos={todos}
         completeTodo={completeTodo}
