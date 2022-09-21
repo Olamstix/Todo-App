@@ -15,6 +15,7 @@ You may also see any lint errors in the console.
 - Added shadow
 - Added animation
 - Added smooth animation
+- Code improvement
 
 ## Next Features
 
